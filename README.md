@@ -1,6 +1,6 @@
 Wiki below:
 
-https://github.com/ibanknatoPrad/emuDownloadCenter-wiki/settings/tag_protection
+https://github.com/ibanknatoPrad/emuDownloadCenter-wiki
 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/images/edc_banner.png)
 
